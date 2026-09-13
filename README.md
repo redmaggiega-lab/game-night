@@ -1,2 +1,2 @@
-# nightfall
+# nightfall prototype
 study game
